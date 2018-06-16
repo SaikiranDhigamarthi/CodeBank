@@ -38,7 +38,7 @@ public class ShipmentCompanyDetails {
 			}
 		}
 
-		System.out.println("Enter The Cargo ID Number sai");
+		System.out.println("Enter The Cargo ID Number 123");
 		int cargoId = sc.nextInt();
 		String id = map.get(cargoId);
 		if (id == null) {
